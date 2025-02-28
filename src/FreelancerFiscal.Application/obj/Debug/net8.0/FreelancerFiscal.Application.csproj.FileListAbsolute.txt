@@ -1,0 +1,15 @@
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\bin\Debug\net8.0\FreelancerFiscal.Application.deps.json
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\bin\Debug\net8.0\FreelancerFiscal.Application.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\bin\Debug\net8.0\FreelancerFiscal.Application.pdb
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\bin\Debug\net8.0\FreelancerFiscal.Domain.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\bin\Debug\net8.0\FreelancerFiscal.Domain.pdb
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.csproj.AssemblyReference.cache
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.AssemblyInfoInputs.cache
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.AssemblyInfo.cs
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\Freelanc.07FC6CE5.Up2Date
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\refint\FreelancerFiscal.Application.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\FreelancerFiscal.Application.pdb
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Application\obj\Debug\net8.0\ref\FreelancerFiscal.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\bin\Debug\net8.0\FreelancerFiscal.Domain.deps.json
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\bin\Debug\net8.0\FreelancerFiscal.Domain.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\bin\Debug\net8.0\FreelancerFiscal.Domain.pdb
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\FreelancerFiscal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\FreelancerFiscal.Domain.AssemblyInfoInputs.cache
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\FreelancerFiscal.Domain.AssemblyInfo.cs
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\FreelancerFiscal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\FreelancerFiscal.Domain.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\refint\FreelancerFiscal.Domain.dll
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\FreelancerFiscal.Domain.pdb
+C:\Users\Lucas.Spanholo\Desktop\Faculdade\FreelancerFiscal\src\FreelancerFiscal.Domain\obj\Debug\net8.0\ref\FreelancerFiscal.Domain.dll

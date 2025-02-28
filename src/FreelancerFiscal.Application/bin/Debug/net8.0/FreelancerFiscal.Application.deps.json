@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FreelancerFiscal.Application/1.0.0": {
+        "dependencies": {
+          "FreelancerFiscal.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FreelancerFiscal.Application.dll": {}
+        }
+      },
+      "FreelancerFiscal.Domain/1.0.0": {
+        "runtime": {
+          "FreelancerFiscal.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreelancerFiscal.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreelancerFiscal.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
